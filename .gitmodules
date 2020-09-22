@@ -1,0 +1,3 @@
+[submodule "submodules/opencamera-code"]
+	path = submodules/opencamera-code
+	url = https://github.com/m-rap/opencamera-code
