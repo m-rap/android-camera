@@ -1,4 +1,4 @@
-package com.mrap.android_camera;
+package com.mrap.androidcamera;
 
 import org.junit.Test;
 

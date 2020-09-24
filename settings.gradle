@@ -1,5 +1,5 @@
 include ':app'
-rootProject.name = "android-camera"
+//rootProject.name = "android-camera"
 
 include ':OpenCamera'
 project(':OpenCamera').projectDir = new File('submodules/gradle-scripts/opencamera-code')
