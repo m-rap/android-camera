@@ -38,7 +38,8 @@ android {
 
     sourceSets {
         main {
-            manifest.srcFile '../../opencamera-code/app/src/main/AndroidManifest.xml'
+            //manifest.srcFile '../../opencamera-code/app/src/main/AndroidManifest.xml'
+            manifest.srcFile './AndroidManifest.xml'
             java.srcDirs = ['../../opencamera-code/app/src/main/java']
             res.srcDirs = ['../../opencamera-code/app/src/main/res']
             renderscript.srcDirs = ['../../opencamera-code/app/src/main/rs']
